@@ -1,5 +1,5 @@
 # SYND Whatsapp AI Bot
-Whatsapp Manger for Banking  
+Whatsapp Manager for Banking  
 ### Checkout: https://compassionate-boyd-d3d3f1.netlify.app
 ## Technology Stack  
   Python with Flask Framework,  
@@ -7,13 +7,13 @@ Whatsapp Manger for Banking
   HTML & CSS.
     
 ## Why?
-This Was a Project done for Syndicate Bank Hackathon.  
-I have made a whatsapp AI multilingual chat bot fully funtional.  
+The Project was for Syndicate Bank Hackathon.  
+A fully functional Whatsapp ai bot which reacts and sends message according to the user's mood.
 
-## What i have learnt
+## Lessons learnt
 - Creating Quick prototype MVP - Minumum viable product 
-- Pitch Deck on how to convince no tect judges on its impact
-- Using 3rd party API services in my application
+- Pitch Deck on how to convince no tech judges on its impact
+- Using third party API services in an application
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Lg5FPKyobJg/0.jpg)](https://www.youtube.com/watch?v=Lg5FPKyobJg)
